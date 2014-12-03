@@ -37,7 +37,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 */
 
-#include "Adafruit_mfGFX.h"
+#include "Adafruit_mfGFX_P.h"
 #include "fonts.h"
 
 
